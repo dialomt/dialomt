@@ -10,10 +10,9 @@
 ## 🔭 About Me  🐧
 
 <p align="center">
-  <img src="welcometomygithub.gif" alt="Introduction" />
+  <img src="welcometomygithub.gif" alt="Introduction" style="width: 300px; height: auto; margin: auto;" />
 </p>
 
-<br>
 
 👩‍🎓 I firmly believe that technologies can change the world and make it more accessible to everyone. I’m a Full Stack Developer in training at the Factoría F5 bootcamp, with a past life as an environmental educator and Climate Change Manager.
 
@@ -38,9 +37,9 @@
 
 ## Let's Connect! 📫
 
-<br>
-<div style="display: flex; justify-content: center;">
-    <p align="center" style="margin-right: 20px;">
+<!-- <br> -->
+<!-- <div style="display: flex; justify-content: center;">
+    <p align="center"
         <a href="https://www.linkedin.com/in/diana-a-128215213/">
             <img src="https://skillicons.dev/icons?i=linkedin" alt="LinkedIn" />
         </a>
@@ -50,7 +49,14 @@
             <img src="https://skillicons.dev/icons?i=gmail" alt="Gmail" style="background-color: pink; padding: 5px; border-radius: 30%; width: 40px; height: 40px;" />
         </a>
     </p>
-</div>
+</div> -->
+
+<p align="center">
+    <a href="https://www.linkedin.com/in/diana-a-128215213/">
+    <img src="https://skillicons.dev/icons?i=linkedin" alt="LinkedIn" height="60px"></a>
+    <a href="mailto:dialomt@gmail.com"><img src="https://skillicons.dev/icons?i=gmail" alt="Gmail" style="background-color: pink; padding: 5px; border-radius: 30%; width: 60px; height=60px"></a>
+  </p>
+
 
 ## Tech Stack 🛠️
 
